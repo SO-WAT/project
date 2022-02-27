@@ -21,7 +21,7 @@
 <i class="bi bi=list mobile-nav-toggle d-xl-none"></i>
 <!--      Header-->
 <header id="header">
-<div class="container">
+<!--<div class="container">-->
 
     <div class="container-fluid">
 
@@ -40,7 +40,7 @@
                     <a class="nav-link active" aria-current="page" href="#">Home</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="about.html">About</a>
+                    <a class="nav-link" href="#">About</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="#">Services</a>
@@ -73,6 +73,7 @@
 </nav>
 
 </div>
+    <div class="page-wrapper">
 </header>
 <div class="container-fluid">
 
@@ -97,15 +98,15 @@
         <div class="carousel-item" data-bs-interval="2000">
             <img src="pics/walk.jpg" class="d-block w-100" alt="...">
             <div class="carousel-caption d-none d-md-block">
-                <h5>Second slide label</h5>
-                <p>Some representative placeholder content for the second slide.</p>
+<!--                <h5>Second slide label</h5>-->
+<!--                <p>Some representative placeholder content for the second slide.</p>-->
             </div>
         </div>
         <div class="carousel-item">
             <img src="pics/ndovubackground.jpg" class="d-block w-100" alt="...">
             <div class="carousel-caption d-none d-md-block">
-                <h5>Third slide label</h5>
-                <p>Some representative placeholder content for the third slide.</p>
+<!--                <h5>Third slide label</h5>-->
+<!--                <p>Some representative placeholder content for the third slide.</p>-->
             </div>
         </div>
     </div>
@@ -117,21 +118,41 @@
         <span class="carousel-control-next-icon" aria-hidden="true"></span>
         <span class="visually-hidden">Next</span>
     </button>
-</div>
+</div><br><br>
     <div class="container">
+        <div>
+        <h2>ABOUT</h2>
+        <p> The Safari Booking Management System is used for securing tickets to various
+            membership amusement and nature parks in Kenya's Capital City, Nairobi.
+            These are Nairobi National Park, Snake Park, The National Museum and Nairobi Arboretum.
+            The system enables individuals spanning of all age sets and locality to book their passes online.
+            The ticket comes with a whole package including personalized or group drives and tour guides.
+            Safari gives affordable rates as well as giving well deserved discounts.
+            To avoid inconvenience, we use both the Ksh and Dollars in our payment systems.
+            The system also allows one to cancel any reservation made </p>
+        <button> Get Started </button>
+        </div>
 
     </div>
+</div>
 
 
 
 
 
 <!--         Footer-->
-<footer id="footer">
-    <div class="container">
-        div
+<div class="footer">
+    <div class="footer-content">
+        <div class="footer-section about"></div>
+        <div class="footer-section links"></div>
+        <div class="footer-section contact-form"></div>
     </div>
-</footer>
+
+
+    <div class="footer-bottom">
+        &copy;codingpoets.com | Designed by Nishy@Ruth
+    </div>
+</div>
 <!-- Optional JavaScript; choose one of the two! -->
 
 <!-- Option 1: Bootstrap Bundle with Popper -->

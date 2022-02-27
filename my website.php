@@ -106,7 +106,22 @@
 <!--<p>The concept of parenting is commonly misunderstood. Many only get the impression of a nuclear family-->
 <!--in such a situation. I believe that this website will change the whole concept of parenting to be seen from-->
 <!--a real-world perspective.</p>-->
+<footer>
+    <div class="row">
+        <div class="col">
+            <img src="pics/favicon.jpg" class="logo">
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet atque cumque dignissimos eum, excepturi, ipsam minus nihil odit officia, omnis placeat quisquam
+                quod saepe sunt tempore? Aperiam blanditiis cum sit!</p>
+        </div>
+        <div class="col"></div>
+        <div class="col"></div>
+        <div class="col"></div>
 
+
+
+
+    </div>
+</footer>
 
 
 
